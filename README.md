@@ -12,3 +12,7 @@ Contains links to LeetCode problems that I solved.
 
 # 09/12/23
 [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/submissions/1114084516/)
+
+# 10/12/23
+[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/?envType=study-plan-v2&envId=top-interview-150)
+
