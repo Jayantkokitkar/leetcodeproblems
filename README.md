@@ -16,3 +16,15 @@ Contains links to LeetCode problems that I solved.
 # 10/12/23
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/?envType=study-plan-v2&envId=top-interview-150)
 
+# 11/12/23
+[House Robber](https://leetcode.com/problems/house-robber/submissions/1117689715/)
+
+# 12/12/23
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1118472765/)
+
+# 13/12/23
+[Majority Element](https://leetcode.com/problems/majority-element/submissions/1118807888/)
+
+
+
+
