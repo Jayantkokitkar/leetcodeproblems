@@ -25,6 +25,15 @@ Contains links to LeetCode problems that I solved.
 # 13/12/23
 [Majority Element](https://leetcode.com/problems/majority-element/submissions/1118807888/)
 
+# 14/12/23
+[Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/112001054)
+
+# 16/12/23
+[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1120756360/)
+
+
+
+
 
 
 
