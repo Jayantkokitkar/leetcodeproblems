@@ -31,6 +31,17 @@ Contains links to LeetCode problems that I solved.
 # 16/12/23
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1120756360/)
 
+# 03/01/24
+[Simplyfy Path](https://leetcode.com/problems/simplify-path/submissions/1134723020/)
+
+# 06/01/24
+[Car Fleet](https://leetcode.com/problems/car-fleet/submissions/1138275882/)
+
+# 07/01/24
+[Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1139706496/)
+
+
+
 
 
 
